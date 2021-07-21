@@ -1,2 +1,2 @@
 # SPS-Bridge-SQL
- SQL Bridge
+ SQL Coursework for CUNY SPS MSDS Bridge Program
